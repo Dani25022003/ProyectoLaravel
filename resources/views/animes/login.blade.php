@@ -5,15 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Iniciar Sesión</title>
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-        body {
-            background-image: url("{{ asset('images/fondo.jpg') }}");
-            background-size: cover;  /* Hace que la imagen cubra toda el área */
-            background-position: center;  /* Centra la imagen */
-            background-attachment: fixed;  /* Fija la imagen mientras se hace scroll */
-            color: white;  /* Cambiar color del texto para que sea visible sobre el fondo */
-        }
-    </style>
 </head>
 <body>
     <div class="container">
